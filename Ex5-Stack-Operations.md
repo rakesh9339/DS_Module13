@@ -13,8 +13,8 @@ To write a C function to perform push and pop operation of the stack in the infi
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: HARISH RAGAV S
-RegisterNumber:  212222110013
+Developed by: RAKESH J.S
+RegisterNumber:  21222230115
 */
  
 char stack[100]; 
