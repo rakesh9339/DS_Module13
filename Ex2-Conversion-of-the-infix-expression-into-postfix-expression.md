@@ -17,8 +17,8 @@ operators.
 ```
 /*
 Program to convert the infix expression into postfix expression
-Developed by: HARISH RAGAV S
-RegisterNumber:  212222110013
+Developed by: RAKESH J.S
+RegisterNumber:  212222230115
 */
 #include<stdio.h> 
 #include<ctype.h> 
